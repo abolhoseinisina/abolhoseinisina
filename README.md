@@ -1,16 +1,24 @@
-## Hi there 👋
+<h2 align="center">Hi 👋, I'm Sina</h1>
 
-<!--
-**abolhoseinisina/abolhoseinisina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 I'm a full-stack software developer with focus on web-based geospatial systems.
+- 🔭 I’m currently a Ph.D. student working on making transportation networks more resilience through AI and spatial analysis.
+- 📫 Reach me on <a href="https://www.linkedin.com/in/sina-abolhoseini">
+  <img alt="Sina Abolhoseini - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+</a>
 
-Here are some ideas to get you started:
+```py
+var status = 
+{ 
+  learning : [Software Engineering, Machine Learning],
+  interests: [Clean Architecture, Large Language Models, Graph Neural Network]
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const skills = 
+{
+  languages :[.Net, Python, TypeScript],
+  frameworks:[ASP.NET Core, FastAPI, Angular],
+  libraries: [React, CesiumJS, Ollama, scikit-learn]
+  databases :[MSSQL, PostgreSQL],
+  platforms :[AWS]
+}
+```

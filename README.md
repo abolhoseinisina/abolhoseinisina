@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Sina</h1>
 
-- 🤖 I'm a full-stack software developer with focus on web-based geospatial systems.
+- 🤖 I'm a full-stack software developer with a focus on web-based geospatial systems.
 - 🔭 I’m currently a Ph.D. student working on making transportation networks more resilience through AI and spatial analysis.
 - 📫 Reach me on <a href="https://www.linkedin.com/in/sina-abolhoseini">
   <img alt="Sina Abolhoseini - LinkedIn" width="16px" style="margin-bottom: -3px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>

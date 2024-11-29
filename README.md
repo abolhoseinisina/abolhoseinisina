@@ -17,7 +17,7 @@ const skills =
 {
   languages :[.Net, Python, TypeScript],
   frameworks:[ASP.NET Core, FastAPI, Angular],
-  libraries: [React, CesiumJS, Ollama, scikit-learn]
+  libraries: [React, CesiumJS, Ollama, SciKit Learn]
   databases :[MSSQL, PostgreSQL],
   platforms :[AWS]
 }
